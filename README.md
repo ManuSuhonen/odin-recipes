@@ -1,7 +1,10 @@
 # Odin Project: Recipes
 ### From www.theodinproject.com
 
-Current it has recipe for Lasagna.
+Currently it has recipe for Lasagna.
 
-## FAQs
-  * *AI images were used to avoid copyright issues.*
+# Live Page!!!
+* https://manusuhonen.github.io/odin-recipes/
+
+# FAQs
+* *AI images were used to avoid copyright issues.*
