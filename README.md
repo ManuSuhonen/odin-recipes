@@ -1,7 +1,7 @@
 # Odin Project: Recipes
 ### From www.theodinproject.com
 
-Currently it has recipe for Lasagna.
+Currently it has recipe for Lasagna & Roti canai.
 
 # Live Page!!!
 * https://manusuhonen.github.io/odin-recipes/
